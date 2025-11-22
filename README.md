@@ -49,7 +49,7 @@ END
 Date Validation: Use datetime.strptime() to check against the YYYY-MM-DD format.
 Rating Validation: Confirm input is an integer $R$ such that $0 \le R \le 10$.
 
-📝 Phase 3: Feedback Submission (give_opinion)
+ Phase 3: Feedback Submission (give_opinion)
 3.1 Goal
 Guide the user through the submission process using validated inputs and successfully record the feedback, addressing the System Efficiency Objective.
 3.2 Algorithm: give_opinion()
